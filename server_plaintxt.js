@@ -16,5 +16,10 @@ server.listen(port, '127.0.0.1', function(error){
     console.log('something went wrong', error)
   }else{
     console.log('now listening to the port' + port)
+    
+    /*
+    omg
+    */
+    
   }
 })
